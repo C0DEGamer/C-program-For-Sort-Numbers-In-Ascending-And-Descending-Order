@@ -5,7 +5,7 @@ int main(){
 
 int a[1000],i,j,b,n;
 
-
+system("COLOR 2");
 
 printf("How Many Numbers \n");
 scanf("%d",&n);
