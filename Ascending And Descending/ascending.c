@@ -35,7 +35,7 @@ for(i=0;i<n;i++){
 }
 
 
-printf("Sorted Numbers In Descending Order\n ");
+printf("Sorted Numbers In Ascending Order\n ");
 
 for(i=0;i<n;i++){
     printf("%d\t",a[i]);
